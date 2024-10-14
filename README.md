@@ -11,3 +11,5 @@ DL-Proj1
 [Resenet-1k](https://github.com/KaimingHe/resnet-1k-layers)
 
 [Meta Beyond EMpirical Risk Minimization](https://github.com/facebookresearch/mixup-cifar10)
+
+[Tensorflow Transforms (TFT) ](https://www.tensorflow.org/tfx/tutorials/transform/simple)
