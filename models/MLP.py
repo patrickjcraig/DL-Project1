@@ -17,6 +17,7 @@ def create_mlp(input_shape, num_classes, layer_units=None, activation='relu', le
         model.add(Dropout(dropout_rate))
     model.add(Dense(num_classes, activation='softmax'))
 
+    # Optimizer Choice
     if optimizer == 'adam':
         opt = Adam(learning_rate=learning_rate)
     elif optimizer == 'sgd':
