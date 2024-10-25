@@ -13,3 +13,5 @@ DL-Proj1
 [Meta Beyond EMpirical Risk Minimization](https://github.com/facebookresearch/mixup-cifar10)
 
 [Tensorflow Transforms (TFT) ](https://www.tensorflow.org/tfx/tutorials/transform/simple)
+
+[BVAE_TF](https://github.com/alecGraves/BVAE-tf)
