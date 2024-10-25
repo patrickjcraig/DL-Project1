@@ -1,0 +1,1 @@
+{"num_layers": 3, "filters": [32, 64, 64], "kernel_sizes": [[3, 3], [3, 3], [3, 3]], "activations": ["relu", "relu", "relu"], "dense_units": 64, "dense_activation": "relu", "batch_normalization": true, "pooling": "avg"}
